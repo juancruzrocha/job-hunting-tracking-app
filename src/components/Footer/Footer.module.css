@@ -1,0 +1,14 @@
+.Footer{
+   background-color: #828a80cb;
+   color:black;
+   width: 100%;
+   font-family:   Tahoma, sans-serif;
+}
+
+.FooterOn{
+   background-color: black;
+   color:rgb(255, 255, 255);
+   width: 100%;
+   font-family: Tahoma, sans-serif;
+
+}

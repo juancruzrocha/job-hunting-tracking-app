@@ -1,0 +1,12 @@
+.NavBar{
+    /* background-color: rgb(240, 179, 89); */
+    background: linear-gradient( to right, #828a80cb,  black);
+    color:black;
+    width: 100%;
+    height: 50px;
+    padding-top: 10px;
+    font-size: large;
+    display: flex;
+    flex-direction: row;
+ }
+ 
